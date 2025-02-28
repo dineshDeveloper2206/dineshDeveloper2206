@@ -9,8 +9,6 @@ I'm a **Backend Java Developer** at **Niiv Software Company**, passionate about 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dineshdeveloper2206&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dineshdeveloper2206" alt="GitHub Profile Trophy" /></a> </p>
-
 ## 🏆 Skills & Tech Stack
 - **Languages:** Java, Python, TypeScript, JavaScript
 - **Frameworks:** Spring Boot, Django, Angular
@@ -21,6 +19,9 @@ I'm a **Backend Java Developer** at **Niiv Software Company**, passionate about 
 <p align="left">
   <a href="https://angular.io" target="_blank" rel="noreferrer">
     <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="Angular" width="40" height="40"/>
+  </a>
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
   </a>
   <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
     <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" width="40" height="40"/>
